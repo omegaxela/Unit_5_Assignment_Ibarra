@@ -1,0 +1,35 @@
+
+	THANK YOU FOR ORDERING!!.
+
+
+----------------------------------------
+		Sun Apr 26 03:57:38 2020
+
+			 Order Number: 1
+----------------------------------------
+		Taqueria Azteca #16
+		4321 7th Street
+		Fort Worth, Texas 76123
+		(817)-888-1234
+========================================
+QTY	 DESC 			      Price 				Amount
+========================================
+11		Agua de Jamaica  3.00					 33.00     
+6		Horchata        4.00					 24.00     
+5		Tacos De Asada  5.00					 25.00     
+4		Quesadilla      6.00					 24.00     
+4		Torta al Pastor  7.00					 28.00     
+3		Enchilladas     8.00					 24.00     
+4		Menudo          9.00					 36.00     
+
+
+----------t														
+Sub Total													 194.00
+Sales Tax													 16.00
+----------															
+Total												   	 210.00
+Tip												     	 38.80
+Total Due													 248.81
+
+
+Thank you for visiting Taqueria Azteca!!!
